@@ -2,4 +2,5 @@ environments-ui/node_modules
 #environments-ui/src/resources/environments.json
 environments-ui/public/bundle.js
 environments-ui/server.js
+rust/server/target/
 .vscode
